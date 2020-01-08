@@ -13,6 +13,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
@@ -105,6 +108,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1W7YsqxMX5vi4k31T0vaH9c4tyy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -150,7 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578502309738</updated>
       <workItem from="1578502313089" duration="5363000" />
-      <workItem from="1578510193574" duration="3653000" />
+      <workItem from="1578510193574" duration="4183000" />
     </task>
     <servers />
   </component>
